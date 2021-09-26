@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Manan Dudhwala!
 
-<!--
-**MananDudhwala/MananDudhwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -9,10 +7,10 @@ Here are some ideas to get you started:
 - 🌱 Currently learning about Formal Language Automate as a part of the curriculum in the prefinal year of my B.Tech
 - 📫 How to reach me: ...manandudhwala9201@gmail.com
 - ⚡ Fun fact: I like to game a lot, always open to talk about them.
--->
 
 ### My Current Skills
-![image](https://user-images.githubusercontent.com/43292298/134810933-3ce21db0-394a-424f-832e-2261f1b44ac9.png)
+![image](https://user-images.githubusercontent.com/43292298/134811070-91c3ae38-6fdc-49ac-9039-801f92303361.png)
+
 ![image](https://user-images.githubusercontent.com/43292298/134810945-b8a7aafa-ccc1-4de7-910d-325269d06b3f.png)
 ![image](https://user-images.githubusercontent.com/43292298/134810952-ceb3c3f4-0280-43c6-830e-2f5bf47f3661.png)
 ![image](https://user-images.githubusercontent.com/43292298/134810968-732a7c30-2833-4bb8-8d41-b81546d8fb78.png)
