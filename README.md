@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/43292298/134811513-debdb9fa-af5a-45bd-a5df-f9046efc6209.png" width="75" height="75" > 
   <img src="https://user-images.githubusercontent.com/43292298/134811455-72cedb2a-9dc9-4e85-9b7c-a0a41fd12720.png" width="75" height="75" > 
   <img src="https://user-images.githubusercontent.com/43292298/134811577-d8d9862e-4931-458d-b1cf-b1cf7cae17ac.png" width="75" height="75" > 
-  <img src="https://user-images.githubusercontent.com/43292298/134811835-dfdbb39d-2ee1-4812-8d00-7819127f7c61.png" width="75" height="75" >
+  <img src="https://user-images.githubusercontent.com/43292298/134811835-dfdbb39d-2ee1-4812-8d00-7819127f7c61.png" width="75" height="120" >
 
 </p>
 
