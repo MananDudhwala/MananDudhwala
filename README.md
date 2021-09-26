@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I like to game a lot, always open to talk about them.
 
 ### My Current Skills
-![image](https://user-images.githubusercontent.com/43292298/134811142-1ea2154b-d927-4139-a6bc-93ad41fa5e80.png)
+![image](https://user-images.githubusercontent.com/43292298/134811142-1ea2154b-d927-4139-a6bc-93ad41fa5e80.png | width=10)
 
 
 
